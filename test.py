@@ -1,2 +1,2 @@
 print("Hello Students!!");
-print("Welcome to django");
+print("Welcome to git hub");
